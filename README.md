@@ -1,5 +1,12 @@
 ### Hi Fellas, my name is Sillas! Grateful to see you on my profile.
-
+  <h1> How're you doing?</h1>
+  
+ - My status in GitHub:
+<div>
+  <a href="https://github.com/sennags">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sennags&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sennags&layout=compact&langs_count=16&theme=material-palenight"/>
+</div>
 
 <!--
 **sennags/sennags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
