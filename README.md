@@ -1,6 +1,5 @@
 ### _Hi Fellas, my name is Sillas!_
 :exclamation:Grateful to see you on my profile:exclamation:
-  <h1 align= center> How're you doing?</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=How're+you+doing+?!+:%29)](https://git.io/typing-svg)
   
