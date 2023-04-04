@@ -1,7 +1,7 @@
 ### _Hi Fellas, my name is Sillas!_
 :exclamation:Grateful to see you on my profile:exclamation:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1B1212size=50&center=true&vCenter=true&width=1000&lines=How're+you+doing?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#1B1212&size=50&center=true&vCenter=true&width=1000&lines=How're+you+doing?)](https://git.io/typing-svg)
   
   <a href="#"><img src="https://cdn.theatlantic.com/thumbor/o4lUUQIroIFYL82tsDVCBRF_ezA=/0x0:2000x1400/850x596/media/img/posts/2021/06/CC_Engber_Poe/original.gif">
   
