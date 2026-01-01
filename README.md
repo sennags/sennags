@@ -1,6 +1,4 @@
-### _Fellas,_
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=ABABAB&center=true&width=435&lines=%E2%84%8C%F0%9D%94%AC%F0%9D%94%B4'%F0%9D%94%AF%F0%9D%94%A2+%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%B2+%F0%9D%94%A1%F0%9D%94%AC%F0%9D%94%A6%F0%9D%94%AB%F0%9D%94%A4%3F)](https://git.io/typing-svg)
+../
 
 <div>
   <a href="https://www.instagram.com/twoozie1/">.../Instagram/</a>
