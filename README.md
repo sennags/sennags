@@ -1,6 +1,8 @@
 ../
 
 <header>
+  <p>C:/linguagens/...\n</p>
+  <p>/tentando_aprender_C/python/HTML/</p>
   <a href="https://www.instagram.com/twoozie1/">.../Instagram/</a>
   <a href="https://www.instagram.com/limaumdoc/" target="_blank">arte-do-perfil/</a>
 </header>
