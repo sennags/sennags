@@ -1,9 +1,9 @@
 ../
 
-<div>
+<header>
   <a href="https://www.instagram.com/twoozie1/">.../Instagram/</a>
   <a href="https://www.instagram.com/limaumdoc/" target="_blank">arte-do-perfil/</a>
-</div>
+</header>
 
 <div>
   /hades-in-the-dead-of-winter/<br>
