@@ -12,6 +12,9 @@ C:/languages/..
 ../frontend_and_infra/  
 /React/Vite/IndexedDB/Cloudflare-Pages/Git/GitLab/
 
+../security_and_practices/
+/LGPD/Privacy-by-Design/Row-Level-Security/OAuth/JWT/Rate-Limiting/Clean-Architecture/SOLID/Pytest/
+
 ../exploring/  
 /RAG/Spring-AI/LangChain4j/Clean-Architecture/
 
