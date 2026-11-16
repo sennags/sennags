@@ -1,26 +1,26 @@
 ../
 
-<header>
-  <p>C:/linguagens/.. <br>
-  /Python/TypeScript/JavaScript/C/SQL/</p>
+> Software Engineering student @ UNIPÊ | AI Engineering & Back-end
+> Local LLM & NLP pipelines, REST APIs, and local-first web apps
 
-  <p>../ia_e_backend/ <br>
-  /LangGraph/Ollama/spaCy/Django-REST/PostgreSQL/Supabase/Docker/</p>
+C:/languages/..  
+/Python/TypeScript/JavaScript/C/SQL/
 
-  <p>../frontend_e_infra/ <br>
-  /React/Vite/IndexedDB/Cloudflare-Pages/Git/GitLab/</p>
+../ai_and_backend/  
+/LangGraph/Ollama/spaCy/Django-REST/PostgreSQL/Supabase/Docker/
 
-  <p>../explorando/ <br>
-  /RAG/Spring-AI/LangChain4j/Clean-Architecture/</p>
+../frontend_and_infra/  
+/React/Vite/IndexedDB/Cloudflare-Pages/Git/GitLab/
 
-  <p>../projetos/ <br>
-  <a href="https://lirismo.com.br" target="_blank">/lirismo.com.br/</a>
-  /nlp-anonymizer-lgpd/</p>
+../exploring/  
+/RAG/Spring-AI/LangChain4j/Clean-Architecture/
 
-  <a href="https://www.instagram.com/twoozie1/">../Instagram/</a>
-  <a href="https://www.instagram.com/limaumdoc/" target="_blank">arte-do-perfil/</a>
-</header>
+../projects/  
+├── [lirismo.com.br](https://lirismo.com.br)  # Local-first full-stack platform for writers (React, TS, Supabase, RLS)
+└── nlp-anonymizer/                           # Local LGPD anonymization pipeline (spaCy, Ollama, LangGraph, DRF)
 
-<div>
-  /hades-in-the-dead-of-winter/<br>
-</div>
+../contact/  
+├── [LinkedIn](www.linkedin.com/in/sillas-senna-814301412) | sillasgs24@gmail.com
+└── [../Instagram/](https://www.instagram.com/twoozie1/)
+
+/hades-in-the-dead-of-winter/
