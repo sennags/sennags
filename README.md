@@ -1,23 +1,26 @@
 ../
-whoami
-> Software Engineering student @ UNIPÊ | AI Engineering & Back-end
-> Local LLM & NLP pipelines, REST APIs, and local-first web apps
 
-C:/linguagens/
-/Python/TypeScript/JavaScript/C/SQL/
+<header>
+  <p>C:/linguagens/.. <br>
+  /Python/TypeScript/JavaScript/C/SQL/</p>
 
-../ia_e_backend/
-/LangGraph/Ollama/spaCy/Django-REST-Framework/PostgreSQL/Supabase/Docker/
+  <p>../ia_e_backend/ <br>
+  /LangGraph/Ollama/spaCy/Django-REST/PostgreSQL/Supabase/Docker/</p>
 
-../frontend_e_infra/
-/React/Vite/IndexedDB/Cloudflare-Pages/Git/GitLab/
+  <p>../frontend_e_infra/ <br>
+  /React/Vite/IndexedDB/Cloudflare-Pages/Git/GitLab/</p>
 
-../projetos/
-├── [lirismo.com.br](https://lirismo.com.br)  # Plataforma full stack local-first para escritores (React, TS, Supabase, RLS)
-└── nlp-anonymizer/                           # Pipeline local de anonimização LGPD (spaCy, Ollama, LangGraph, DRF)
+  <p>../explorando/ <br>
+  /RAG/Spring-AI/LangChain4j/Clean-Architecture/</p>
 
-../explorando/
-/RAG/Spring-AI/LangChain4j/Clean-Architecture/
+  <p>../projetos/ <br>
+  <a href="https://lirismo.com.br" target="_blank">/lirismo.com.br/</a>
+  /nlp-anonymizer-lgpd/</p>
 
-../links/
-[LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) | [Lirismo](https://lirismo.com.br) | [Instagram](https://instagram.com/hades-in-the-dead-of-winter)
+  <a href="https://www.instagram.com/twoozie1/">../Instagram/</a>
+  <a href="https://www.instagram.com/limaumdoc/" target="_blank">arte-do-perfil/</a>
+</header>
+
+<div>
+  /hades-in-the-dead-of-winter/<br>
+</div>
