@@ -24,10 +24,4 @@ C:/languages/..
 └── nlp-anonymizer/ # Local LGPD anonymization pipeline (spaCy, Ollama, LangGraph, DRF)
 </p>
 
-<p>
-../contact/ <br>
-├── <a href="https://www.linkedin.com/in/your-username" target="_blank">LinkedIn</a> | sillasgs24@gmail.com <br>
-└── <a href="https://www.instagram.com/twoozie1/" target="_blank">../Instagram/</a> <a href="https://www.instagram.com/limaumdoc/" target="_blank">profile-art/</a>
-</p>
-
 /hades-in-the-dead-of-winter/
