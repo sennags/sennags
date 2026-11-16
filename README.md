@@ -15,12 +15,16 @@ C:/languages/..
 ../exploring/  
 /RAG/Spring-AI/LangChain4j/Clean-Architecture/
 
-../projects/  
-├── [lirismo.com.br](https://lirismo.com.br)  # Local-first full-stack platform for writers (React, TS, Supabase, RLS)
-└── nlp-anonymizer/                           # Local LGPD anonymization pipeline (spaCy, Ollama, LangGraph, DRF)
+<p>
+../projects/ <br>
+├── <a href="https://lirismo.com.br" target="_blank">lirismo.com.br</a> # Local-first full-stack platform for writers (React, TS, Supabase, RLS) <br>
+└── nlp-anonymizer/ # Local LGPD anonymization pipeline (spaCy, Ollama, LangGraph, DRF)
+</p>
 
-../contact/  
-├── [LinkedIn](www.linkedin.com/in/sillas-senna-814301412) | sillasgs24@gmail.com
-└── [../Instagram/](https://www.instagram.com/twoozie1/)
+<p>
+../contact/ <br>
+├── <a href="https://www.linkedin.com/in/your-username" target="_blank">LinkedIn</a> | sillasgs24@gmail.com <br>
+└── <a href="https://www.instagram.com/twoozie1/" target="_blank">../Instagram/</a> <a href="https://www.instagram.com/limaumdoc/" target="_blank">profile-art/</a>
+</p>
 
 /hades-in-the-dead-of-winter/
