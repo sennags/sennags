@@ -1,5 +1,5 @@
 ../
-
+> From: Sillas Sena | To: You
 > Software Engineering student @ UNIPÊ | AI Engineering & Back-end  
 > Local LLM & NLP pipelines, REST APIs, and local-first web apps
 
